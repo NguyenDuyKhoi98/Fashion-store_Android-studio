@@ -31,9 +31,21 @@ KTT Store là dự án gồm ứng dụng bán quần áo thời trang trực tu
 
 
 ## Giao diện admin
+![LoginAdmin](https://github.com/user-attachments/assets/27d17931-7975-4e09-be09-34907eaf3e8e)
 
+![Dashboard](https://github.com/user-attachments/assets/ae193f75-98e2-4fb7-9e1b-39e3081b0504)
 
+![ProductManagement](https://github.com/user-attachments/assets/1decdca4-f1aa-4a00-ab03-de47c8ff36a0)
 
+![CustomerManagement](https://github.com/user-attachments/assets/89482346-05d8-454d-968c-47ac03baa5b9)
+
+![OrderManagement](https://github.com/user-attachments/assets/343b411c-d2ba-4831-bf54-1f4576527443)
+
+![VoucherManagerment](https://github.com/user-attachments/assets/3493437c-27c6-4456-a7bd-2e442345239e)
+
+![NotificationManagement](https://github.com/user-attachments/assets/5de55b06-0ce6-4610-a516-0e37634dbd99)
+
+![FlashSaleManagerment](https://github.com/user-attachments/assets/08d6c075-606b-4791-9815-125eaf8414cc)
 
 
 ## 🛠️ Công nghệ sử dụng
