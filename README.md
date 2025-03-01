@@ -3,6 +3,41 @@
 ## 📝 Mô tả
 KTT Store là dự án gồm ứng dụng bán quần áo thời trang trực tuyến được xây dựng bằng android studio và website cho admin quản lý với giao diện thân thiện và trải nghiệm mua sắm mượt mà.
 
+## Giao diện Client
+![Register01](https://github.com/user-attachments/assets/b75acfca-bc55-4ea7-9400-f31e27322345)![Register02](https://github.com/user-attachments/assets/cc1c4b9b-b51c-475d-ab13-048a0bb7a03b)
+![Login](https://github.com/user-attachments/assets/1d6def3a-5e95-4ef4-8fb4-2cf093e3fd02)
+
+![ForgotPassword01](https://github.com/user-attachments/assets/724aa2ae-735f-45fd-8ef6-ca7ff76a0682)![ForgotPassword02](https://github.com/user-attachments/assets/88dd39c0-9e22-44ac-a8b3-77e34484e5df)
+
+![HomePage01](https://github.com/user-attachments/assets/5c7d7e21-550f-494c-83b0-7facf05c7458)![HomePage02](https://github.com/user-attachments/assets/97711b50-46c0-470d-978a-f47daf17af3d)![HomePage03](https://github.com/user-attachments/assets/900e61c5-b656-4577-a74f-83553d9c8aa2)
+
+![ProductDetail01](https://github.com/user-attachments/assets/cd4e5825-94ae-423a-b380-3d25cf8e7e1d)![ProductDetail02](https://github.com/user-attachments/assets/b981e5aa-4a2d-4df8-ac98-9f74c3a335db)
+
+![Favorites](https://github.com/user-attachments/assets/ded8371a-cabc-4773-9688-94bfd11f8e80)
+
+![Cart01](https://github.com/user-attachments/assets/31d38d47-dfc9-424b-ab28-72e838b4e0aa)![Cart02](https://github.com/user-attachments/assets/8323f678-82a3-46a0-bfab-b66ffdf5a4b3)
+
+![Notification](https://github.com/user-attachments/assets/6c1b829a-69b1-444f-86e0-573b7803fb95)
+
+![Profile](https://github.com/user-attachments/assets/d8436ba2-89c0-4e5e-bbe3-d6ceadb38d59)
+
+![UpdateInfo01](https://github.com/user-attachments/assets/74a77265-9537-4fae-8887-1373a0cb0d1b)![UpdateInfo02](https://github.com/user-attachments/assets/5a92f48f-1da3-42ce-b76f-d5b6cfd2724f)![UpdateInfo03](https://github.com/user-attachments/assets/01877c91-1820-4429-b8d0-3005ff96b30c)
+
+![MyOrders](https://github.com/user-attachments/assets/420743ec-a72d-41bb-adac-6c91975aab58)![MyOrderDetails](https://github.com/user-attachments/assets/d42d0405-e88d-49b7-b541-50056974012f)
+
+![MyVoucher](https://github.com/user-attachments/assets/71ccd80e-69e0-42a9-99ab-9548c3c5b7bd)
+
+![Contact](https://github.com/user-attachments/assets/6b669d7d-4e7e-48ae-b699-8f7409d282c4)
+
+
+
+
+## Giao diện admin
+
+
+
+
+
 ## 🛠️ Công nghệ sử dụng
 - Frontend: 
   - Android studio
